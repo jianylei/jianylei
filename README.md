@@ -5,8 +5,7 @@
   <a href="https://www.jianylei.com/">View Website</a> or <a href="mailto:jianyonglei.com">Email Me</a>
 </div>
 <br/>
-<div>
-  
+<div align="center">
   <img src="icons/c-plusplus.svg" width="42px">
   &nbsp&nbsp&nbsp
   <img src="icons/javascript.svg" width="42px">
