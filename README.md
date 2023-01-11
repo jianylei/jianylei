@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jian Lei</h1>
-<h3 align="center">A full stack developer from Toronto, On</h3>
+<h2 align="center">Hi 👋, I'm Jian Lei</h2>
+<h4 align="center">Full Stack Developer from Toronto, On</h4>
 
 <div align="center">
 
