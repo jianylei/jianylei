@@ -1,5 +1,3 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=jianylei&label=Profile%20views&color=0e75b6&style=flat" alt="jianylei" /> </p>
-
 <h2 align="center">Jian Lei</h2>
 <h4 align="center">Full Stack Developer from Toronto, ON</h4>
 
